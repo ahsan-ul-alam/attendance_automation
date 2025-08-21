@@ -1,0 +1,3813 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "employee_id": "157",
+      "date": "2025-08-01",
+      "in_time": "2025-08-01 07:02:45",
+      "out_time": "2025-08-01 07:02:45",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "149",
+      "date": "2025-08-01",
+      "in_time": "2025-08-01 07:03:53",
+      "out_time": "2025-08-01 15:36:34",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "131",
+      "date": "2025-08-01",
+      "in_time": "2025-08-01 07:55:11",
+      "out_time": "2025-08-01 19:49:23",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "140",
+      "date": "2025-08-01",
+      "in_time": "2025-08-01 08:42:48",
+      "out_time": "2025-08-01 08:42:48",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "124",
+      "date": "2025-08-01",
+      "in_time": "2025-08-01 08:52:58",
+      "out_time": "2025-08-01 18:12:49",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "150",
+      "date": "2025-08-01",
+      "in_time": "2025-08-01 08:53:37",
+      "out_time": "2025-08-01 18:10:41",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "137",
+      "date": "2025-08-01",
+      "in_time": "2025-08-01 08:59:12",
+      "out_time": "2025-08-01 18:18:59",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "113",
+      "date": "2025-08-01",
+      "in_time": "2025-08-01 08:59:17",
+      "out_time": "2025-08-01 18:12:33",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "142",
+      "date": "2025-08-01",
+      "in_time": "2025-08-01 09:03:33",
+      "out_time": "2025-08-01 18:23:08",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "114",
+      "date": "2025-08-01",
+      "in_time": "2025-08-01 09:16:12",
+      "out_time": "2025-08-01 19:16:46",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "4",
+      "date": "2025-08-01",
+      "in_time": "2025-08-01 14:40:58",
+      "out_time": "2025-08-01 22:49:51",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "127",
+      "date": "2025-08-01",
+      "in_time": "2025-08-01 14:43:17",
+      "out_time": "2025-08-01 22:38:16",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "135",
+      "date": "2025-08-01",
+      "in_time": "2025-08-01 22:23:52",
+      "out_time": "2025-08-01 22:23:52",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "126",
+      "date": "2025-08-01",
+      "in_time": "2025-08-01 22:47:07",
+      "out_time": "2025-08-01 22:47:07",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "148",
+      "date": "2025-08-01",
+      "in_time": "2025-08-01 22:47:24",
+      "out_time": "2025-08-01 22:47:24",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "156",
+      "date": "2025-08-02",
+      "in_time": "2025-08-02 06:52:37",
+      "out_time": "2025-08-02 15:40:35",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "4",
+      "date": "2025-08-02",
+      "in_time": "2025-08-02 06:58:24",
+      "out_time": "2025-08-02 15:40:45",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "152",
+      "date": "2025-08-02",
+      "in_time": "2025-08-02 06:58:45",
+      "out_time": "2025-08-02 15:41:15",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "149",
+      "date": "2025-08-02",
+      "in_time": "2025-08-02 07:06:23",
+      "out_time": "2025-08-02 15:41:22",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "124",
+      "date": "2025-08-02",
+      "in_time": "2025-08-02 08:52:41",
+      "out_time": "2025-08-02 18:25:29",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "143",
+      "date": "2025-08-02",
+      "in_time": "2025-08-02 08:53:52",
+      "out_time": "2025-08-02 08:53:52",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "150",
+      "date": "2025-08-02",
+      "in_time": "2025-08-02 08:56:15",
+      "out_time": "2025-08-02 18:19:50",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "138",
+      "date": "2025-08-02",
+      "in_time": "2025-08-02 08:59:21",
+      "out_time": "2025-08-02 18:23:55",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "118",
+      "date": "2025-08-02",
+      "in_time": "2025-08-02 08:59:34",
+      "out_time": "2025-08-02 18:23:36",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "117",
+      "date": "2025-08-02",
+      "in_time": "2025-08-02 08:59:40",
+      "out_time": "2025-08-02 18:42:01",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "144",
+      "date": "2025-08-02",
+      "in_time": "2025-08-02 09:10:11",
+      "out_time": "2025-08-02 18:53:25",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "133",
+      "date": "2025-08-02",
+      "in_time": "2025-08-02 09:24:00",
+      "out_time": "2025-08-02 09:24:00",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "109",
+      "date": "2025-08-02",
+      "in_time": "2025-08-02 09:24:59",
+      "out_time": "2025-08-02 09:24:59",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "140",
+      "date": "2025-08-02",
+      "in_time": "2025-08-02 09:28:36",
+      "out_time": "2025-08-02 18:20:49",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "131",
+      "date": "2025-08-02",
+      "in_time": "2025-08-02 10:26:17",
+      "out_time": "2025-08-02 10:26:17",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "130",
+      "date": "2025-08-02",
+      "in_time": "2025-08-02 14:58:54",
+      "out_time": "2025-08-02 14:58:54",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "114",
+      "date": "2025-08-02",
+      "in_time": "2025-08-02 14:59:20",
+      "out_time": "2025-08-02 14:59:20",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "116",
+      "date": "2025-08-02",
+      "in_time": "2025-08-02 15:37:01",
+      "out_time": "2025-08-02 15:37:01",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "129",
+      "date": "2025-08-02",
+      "in_time": "2025-08-02 22:19:17",
+      "out_time": "2025-08-02 22:19:17",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "155",
+      "date": "2025-08-02",
+      "in_time": "2025-08-02 22:19:28",
+      "out_time": "2025-08-02 22:19:28",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "124",
+      "date": "2025-08-03",
+      "in_time": "2025-08-03 08:52:37",
+      "out_time": "2025-08-03 18:13:14",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "156",
+      "date": "2025-08-03",
+      "in_time": "2025-08-03 08:53:32",
+      "out_time": "2025-08-03 15:50:16",
+      "total_punches": 3
+    },
+    {
+      "employee_id": "140",
+      "date": "2025-08-03",
+      "in_time": "2025-08-03 08:55:01",
+      "out_time": "2025-08-03 18:07:42",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "117",
+      "date": "2025-08-03",
+      "in_time": "2025-08-03 08:55:36",
+      "out_time": "2025-08-03 18:48:18",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "150",
+      "date": "2025-08-03",
+      "in_time": "2025-08-03 08:57:18",
+      "out_time": "2025-08-03 18:38:42",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "113",
+      "date": "2025-08-03",
+      "in_time": "2025-08-03 08:57:56",
+      "out_time": "2025-08-03 18:05:14",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "151",
+      "date": "2025-08-03",
+      "in_time": "2025-08-03 08:58:19",
+      "out_time": "2025-08-03 18:08:07",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "137",
+      "date": "2025-08-03",
+      "in_time": "2025-08-03 08:58:56",
+      "out_time": "2025-08-03 18:40:45",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "109",
+      "date": "2025-08-03",
+      "in_time": "2025-08-03 08:59:28",
+      "out_time": "2025-08-03 08:59:28",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "138",
+      "date": "2025-08-03",
+      "in_time": "2025-08-03 09:00:08",
+      "out_time": "2025-08-03 18:06:53",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "118",
+      "date": "2025-08-03",
+      "in_time": "2025-08-03 09:00:12",
+      "out_time": "2025-08-03 18:41:16",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "131",
+      "date": "2025-08-03",
+      "in_time": "2025-08-03 09:07:59",
+      "out_time": "2025-08-03 19:33:17",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "142",
+      "date": "2025-08-03",
+      "in_time": "2025-08-03 09:08:07",
+      "out_time": "2025-08-03 18:46:41",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "144",
+      "date": "2025-08-03",
+      "in_time": "2025-08-03 09:08:12",
+      "out_time": "2025-08-03 18:07:51",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "116",
+      "date": "2025-08-03",
+      "in_time": "2025-08-03 14:39:46",
+      "out_time": "2025-08-03 22:34:00",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "152",
+      "date": "2025-08-03",
+      "in_time": "2025-08-03 15:03:56",
+      "out_time": "2025-08-03 22:40:41",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "126",
+      "date": "2025-08-03",
+      "in_time": "2025-08-03 15:11:31",
+      "out_time": "2025-08-03 22:36:43",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "4",
+      "date": "2025-08-03",
+      "in_time": "2025-08-03 15:50:08",
+      "out_time": "2025-08-03 15:50:08",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "133",
+      "date": "2025-08-03",
+      "in_time": "2025-08-03 18:47:49",
+      "out_time": "2025-08-03 18:47:49",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "155",
+      "date": "2025-08-03",
+      "in_time": "2025-08-03 22:08:01",
+      "out_time": "2025-08-03 22:08:01",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "129",
+      "date": "2025-08-03",
+      "in_time": "2025-08-03 22:23:44",
+      "out_time": "2025-08-03 22:23:44",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "135",
+      "date": "2025-08-03",
+      "in_time": "2025-08-03 22:28:57",
+      "out_time": "2025-08-03 22:28:57",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "127",
+      "date": "2025-08-04",
+      "in_time": "2025-08-04 06:58:54",
+      "out_time": "2025-08-04 17:07:39",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "157",
+      "date": "2025-08-04",
+      "in_time": "2025-08-04 07:08:28",
+      "out_time": "2025-08-04 16:51:16",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "114",
+      "date": "2025-08-04",
+      "in_time": "2025-08-04 07:16:02",
+      "out_time": "2025-08-04 07:16:03",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "156",
+      "date": "2025-08-04",
+      "in_time": "2025-08-04 07:20:35",
+      "out_time": "2025-08-04 16:54:02",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "106",
+      "date": "2025-08-04",
+      "in_time": "2025-08-04 08:04:29",
+      "out_time": "2025-08-04 08:04:29",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "150",
+      "date": "2025-08-04",
+      "in_time": "2025-08-04 08:51:41",
+      "out_time": "2025-08-04 08:51:41",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "143",
+      "date": "2025-08-04",
+      "in_time": "2025-08-04 08:53:44",
+      "out_time": "2025-08-04 18:14:25",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "117",
+      "date": "2025-08-04",
+      "in_time": "2025-08-04 08:58:28",
+      "out_time": "2025-08-04 18:05:44",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "113",
+      "date": "2025-08-04",
+      "in_time": "2025-08-04 08:59:07",
+      "out_time": "2025-08-04 18:06:13",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "137",
+      "date": "2025-08-04",
+      "in_time": "2025-08-04 08:59:20",
+      "out_time": "2025-08-04 18:13:52",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "138",
+      "date": "2025-08-04",
+      "in_time": "2025-08-04 09:00:39",
+      "out_time": "2025-08-04 18:10:39",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "118",
+      "date": "2025-08-04",
+      "in_time": "2025-08-04 09:00:41",
+      "out_time": "2025-08-04 18:11:56",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "131",
+      "date": "2025-08-04",
+      "in_time": "2025-08-04 09:00:48",
+      "out_time": "2025-08-04 19:13:02",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "109",
+      "date": "2025-08-04",
+      "in_time": "2025-08-04 09:01:18",
+      "out_time": "2025-08-04 09:01:18",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "142",
+      "date": "2025-08-04",
+      "in_time": "2025-08-04 09:09:45",
+      "out_time": "2025-08-04 18:09:27",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "144",
+      "date": "2025-08-04",
+      "in_time": "2025-08-04 09:11:00",
+      "out_time": "2025-08-04 18:06:04",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "140",
+      "date": "2025-08-04",
+      "in_time": "2025-08-04 09:27:04",
+      "out_time": "2025-08-04 18:12:07",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "133",
+      "date": "2025-08-04",
+      "in_time": "2025-08-04 09:31:08",
+      "out_time": "2025-08-04 09:31:08",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "126",
+      "date": "2025-08-04",
+      "in_time": "2025-08-04 14:55:05",
+      "out_time": "2025-08-04 22:38:01",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "130",
+      "date": "2025-08-04",
+      "in_time": "2025-08-04 14:56:27",
+      "out_time": "2025-08-04 22:38:59",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "116",
+      "date": "2025-08-04",
+      "in_time": "2025-08-04 15:02:11",
+      "out_time": "2025-08-04 15:02:11",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "152",
+      "date": "2025-08-04",
+      "in_time": "2025-08-04 15:02:45",
+      "out_time": "2025-08-04 22:36:05",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "161",
+      "date": "2025-08-04",
+      "in_time": "2025-08-04 18:02:31",
+      "out_time": "2025-08-04 18:02:33",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "155",
+      "date": "2025-08-04",
+      "in_time": "2025-08-04 22:06:45",
+      "out_time": "2025-08-04 22:07:20",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "129",
+      "date": "2025-08-04",
+      "in_time": "2025-08-04 22:07:12",
+      "out_time": "2025-08-04 22:07:12",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "148",
+      "date": "2025-08-04",
+      "in_time": "2025-08-04 22:21:26",
+      "out_time": "2025-08-04 22:21:26",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "149",
+      "date": "2025-08-04",
+      "in_time": "2025-08-04 22:39:34",
+      "out_time": "2025-08-04 22:39:34",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "156",
+      "date": "2025-08-05",
+      "in_time": "2025-08-05 06:58:04",
+      "out_time": "2025-08-05 15:30:08",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "157",
+      "date": "2025-08-05",
+      "in_time": "2025-08-05 07:04:35",
+      "out_time": "2025-08-05 15:32:34",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "114",
+      "date": "2025-08-05",
+      "in_time": "2025-08-05 07:09:06",
+      "out_time": "2025-08-05 07:09:06",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "161",
+      "date": "2025-08-05",
+      "in_time": "2025-08-05 08:26:57",
+      "out_time": "2025-08-05 08:26:57",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "159",
+      "date": "2025-08-05",
+      "in_time": "2025-08-05 08:33:54",
+      "out_time": "2025-08-05 18:11:00",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "140",
+      "date": "2025-08-05",
+      "in_time": "2025-08-05 08:46:00",
+      "out_time": "2025-08-05 18:31:57",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "124",
+      "date": "2025-08-05",
+      "in_time": "2025-08-05 08:51:29",
+      "out_time": "2025-08-05 18:40:43",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "143",
+      "date": "2025-08-05",
+      "in_time": "2025-08-05 08:53:36",
+      "out_time": "2025-08-05 18:14:17",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "150",
+      "date": "2025-08-05",
+      "in_time": "2025-08-05 08:57:17",
+      "out_time": "2025-08-05 18:41:56",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "158",
+      "date": "2025-08-05",
+      "in_time": "2025-08-05 08:57:36",
+      "out_time": "2025-08-05 18:11:05",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "117",
+      "date": "2025-08-05",
+      "in_time": "2025-08-05 08:57:48",
+      "out_time": "2025-08-05 08:57:48",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "137",
+      "date": "2025-08-05",
+      "in_time": "2025-08-05 08:58:55",
+      "out_time": "2025-08-05 18:36:56",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "151",
+      "date": "2025-08-05",
+      "in_time": "2025-08-05 08:59:14",
+      "out_time": "2025-08-05 18:09:21",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "113",
+      "date": "2025-08-05",
+      "in_time": "2025-08-05 08:59:27",
+      "out_time": "2025-08-05 18:10:38",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "118",
+      "date": "2025-08-05",
+      "in_time": "2025-08-05 08:59:34",
+      "out_time": "2025-08-05 18:28:32",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "142",
+      "date": "2025-08-05",
+      "in_time": "2025-08-05 09:00:20",
+      "out_time": "2025-08-05 18:37:13",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "131",
+      "date": "2025-08-05",
+      "in_time": "2025-08-05 09:02:06",
+      "out_time": "2025-08-05 20:46:26",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "144",
+      "date": "2025-08-05",
+      "in_time": "2025-08-05 09:05:11",
+      "out_time": "2025-08-05 09:05:11",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "109",
+      "date": "2025-08-05",
+      "in_time": "2025-08-05 09:11:19",
+      "out_time": "2025-08-05 09:11:19",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "133",
+      "date": "2025-08-05",
+      "in_time": "2025-08-05 09:29:16",
+      "out_time": "2025-08-05 18:57:16",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "126",
+      "date": "2025-08-05",
+      "in_time": "2025-08-05 14:56:30",
+      "out_time": "2025-08-05 22:39:05",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "130",
+      "date": "2025-08-05",
+      "in_time": "2025-08-05 14:56:36",
+      "out_time": "2025-08-05 22:38:54",
+      "total_punches": 3
+    },
+    {
+      "employee_id": "152",
+      "date": "2025-08-05",
+      "in_time": "2025-08-05 14:59:54",
+      "out_time": "2025-08-05 14:59:56",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "116",
+      "date": "2025-08-05",
+      "in_time": "2025-08-05 15:00:01",
+      "out_time": "2025-08-05 22:35:32",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "4",
+      "date": "2025-08-05",
+      "in_time": "2025-08-05 15:00:36",
+      "out_time": "2025-08-05 22:35:44",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "155",
+      "date": "2025-08-05",
+      "in_time": "2025-08-05 22:19:08",
+      "out_time": "2025-08-05 22:19:08",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "129",
+      "date": "2025-08-05",
+      "in_time": "2025-08-05 22:19:49",
+      "out_time": "2025-08-05 22:19:49",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "135",
+      "date": "2025-08-05",
+      "in_time": "2025-08-05 22:27:18",
+      "out_time": "2025-08-05 22:27:18",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "149",
+      "date": "2025-08-05",
+      "in_time": "2025-08-05 22:30:25",
+      "out_time": "2025-08-05 22:30:25",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "148",
+      "date": "2025-08-05",
+      "in_time": "2025-08-05 22:52:55",
+      "out_time": "2025-08-05 22:52:55",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "157",
+      "date": "2025-08-06",
+      "in_time": "2025-08-06 07:02:05",
+      "out_time": "2025-08-06 15:37:18",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "156",
+      "date": "2025-08-06",
+      "in_time": "2025-08-06 07:03:08",
+      "out_time": "2025-08-06 15:33:07",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "114",
+      "date": "2025-08-06",
+      "in_time": "2025-08-06 07:03:49",
+      "out_time": "2025-08-06 15:37:33",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "106",
+      "date": "2025-08-06",
+      "in_time": "2025-08-06 07:04:05",
+      "out_time": "2025-08-06 15:39:37",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "161",
+      "date": "2025-08-06",
+      "in_time": "2025-08-06 08:33:48",
+      "out_time": "2025-08-06 20:38:41",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "124",
+      "date": "2025-08-06",
+      "in_time": "2025-08-06 08:51:20",
+      "out_time": "2025-08-06 18:14:35",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "109",
+      "date": "2025-08-06",
+      "in_time": "2025-08-06 08:53:10",
+      "out_time": "2025-08-06 08:53:10",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "113",
+      "date": "2025-08-06",
+      "in_time": "2025-08-06 08:56:22",
+      "out_time": "2025-08-06 18:05:32",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "159",
+      "date": "2025-08-06",
+      "in_time": "2025-08-06 08:56:29",
+      "out_time": "2025-08-06 18:03:50",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "117",
+      "date": "2025-08-06",
+      "in_time": "2025-08-06 08:58:10",
+      "out_time": "2025-08-06 18:14:38",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "137",
+      "date": "2025-08-06",
+      "in_time": "2025-08-06 08:58:58",
+      "out_time": "2025-08-06 18:20:29",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "143",
+      "date": "2025-08-06",
+      "in_time": "2025-08-06 08:59:57",
+      "out_time": "2025-08-06 08:59:57",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "118",
+      "date": "2025-08-06",
+      "in_time": "2025-08-06 09:00:30",
+      "out_time": "2025-08-06 18:22:18",
+      "total_punches": 3
+    },
+    {
+      "employee_id": "133",
+      "date": "2025-08-06",
+      "in_time": "2025-08-06 09:03:42",
+      "out_time": "2025-08-06 18:18:57",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "131",
+      "date": "2025-08-06",
+      "in_time": "2025-08-06 09:06:01",
+      "out_time": "2025-08-06 19:20:44",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "158",
+      "date": "2025-08-06",
+      "in_time": "2025-08-06 09:08:29",
+      "out_time": "2025-08-06 18:02:25",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "142",
+      "date": "2025-08-06",
+      "in_time": "2025-08-06 09:09:11",
+      "out_time": "2025-08-06 18:19:47",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "4",
+      "date": "2025-08-06",
+      "in_time": "2025-08-06 14:53:06",
+      "out_time": "2025-08-06 22:36:07",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "126",
+      "date": "2025-08-06",
+      "in_time": "2025-08-06 14:57:55",
+      "out_time": "2025-08-06 22:39:06",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "130",
+      "date": "2025-08-06",
+      "in_time": "2025-08-06 15:07:59",
+      "out_time": "2025-08-06 22:39:13",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "116",
+      "date": "2025-08-06",
+      "in_time": "2025-08-06 15:09:25",
+      "out_time": "2025-08-06 22:39:15",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "135",
+      "date": "2025-08-06",
+      "in_time": "2025-08-06 22:17:56",
+      "out_time": "2025-08-06 22:17:56",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "155",
+      "date": "2025-08-06",
+      "in_time": "2025-08-06 22:18:38",
+      "out_time": "2025-08-06 22:18:38",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "129",
+      "date": "2025-08-06",
+      "in_time": "2025-08-06 22:21:34",
+      "out_time": "2025-08-06 22:21:34",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "148",
+      "date": "2025-08-06",
+      "in_time": "2025-08-06 22:31:18",
+      "out_time": "2025-08-06 22:31:18",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "149",
+      "date": "2025-08-06",
+      "in_time": "2025-08-06 22:35:03",
+      "out_time": "2025-08-06 22:35:03",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "157",
+      "date": "2025-08-07",
+      "in_time": "2025-08-07 06:57:44",
+      "out_time": "2025-08-07 15:22:35",
+      "total_punches": 3
+    },
+    {
+      "employee_id": "156",
+      "date": "2025-08-07",
+      "in_time": "2025-08-07 06:57:49",
+      "out_time": "2025-08-07 15:31:13",
+      "total_punches": 3
+    },
+    {
+      "employee_id": "114",
+      "date": "2025-08-07",
+      "in_time": "2025-08-07 07:05:00",
+      "out_time": "2025-08-07 07:05:00",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "127",
+      "date": "2025-08-07",
+      "in_time": "2025-08-07 08:32:03",
+      "out_time": "2025-08-07 15:31:23",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "161",
+      "date": "2025-08-07",
+      "in_time": "2025-08-07 08:34:41",
+      "out_time": "2025-08-07 21:20:22",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "140",
+      "date": "2025-08-07",
+      "in_time": "2025-08-07 08:53:13",
+      "out_time": "2025-08-07 18:22:29",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "150",
+      "date": "2025-08-07",
+      "in_time": "2025-08-07 08:55:10",
+      "out_time": "2025-08-07 18:22:18",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "143",
+      "date": "2025-08-07",
+      "in_time": "2025-08-07 08:55:47",
+      "out_time": "2025-08-07 18:09:58",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "124",
+      "date": "2025-08-07",
+      "in_time": "2025-08-07 08:55:52",
+      "out_time": "2025-08-07 19:42:54",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "159",
+      "date": "2025-08-07",
+      "in_time": "2025-08-07 08:56:40",
+      "out_time": "2025-08-07 18:05:03",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "117",
+      "date": "2025-08-07",
+      "in_time": "2025-08-07 08:57:23",
+      "out_time": "2025-08-07 18:28:20",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "138",
+      "date": "2025-08-07",
+      "in_time": "2025-08-07 08:58:13",
+      "out_time": "2025-08-07 18:48:11",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "113",
+      "date": "2025-08-07",
+      "in_time": "2025-08-07 08:58:17",
+      "out_time": "2025-08-07 18:29:04",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "118",
+      "date": "2025-08-07",
+      "in_time": "2025-08-07 08:58:37",
+      "out_time": "2025-08-07 18:29:27",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "137",
+      "date": "2025-08-07",
+      "in_time": "2025-08-07 08:58:57",
+      "out_time": "2025-08-07 18:27:49",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "133",
+      "date": "2025-08-07",
+      "in_time": "2025-08-07 09:00:30",
+      "out_time": "2025-08-07 09:00:30",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "158",
+      "date": "2025-08-07",
+      "in_time": "2025-08-07 09:01:52",
+      "out_time": "2025-08-07 18:05:00",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "142",
+      "date": "2025-08-07",
+      "in_time": "2025-08-07 09:04:08",
+      "out_time": "2025-08-07 18:27:41",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "131",
+      "date": "2025-08-07",
+      "in_time": "2025-08-07 09:06:33",
+      "out_time": "2025-08-07 21:03:13",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "4",
+      "date": "2025-08-07",
+      "in_time": "2025-08-07 14:41:19",
+      "out_time": "2025-08-07 22:37:23",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "152",
+      "date": "2025-08-07",
+      "in_time": "2025-08-07 15:01:00",
+      "out_time": "2025-08-07 22:37:26",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "116",
+      "date": "2025-08-07",
+      "in_time": "2025-08-07 15:06:21",
+      "out_time": "2025-08-07 15:06:21",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "130",
+      "date": "2025-08-07",
+      "in_time": "2025-08-07 15:09:22",
+      "out_time": "2025-08-07 22:43:26",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "126",
+      "date": "2025-08-07",
+      "in_time": "2025-08-07 15:09:25",
+      "out_time": "2025-08-07 22:43:33",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "106",
+      "date": "2025-08-07",
+      "in_time": "2025-08-07 15:51:57",
+      "out_time": "2025-08-07 15:51:57",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "109",
+      "date": "2025-08-07",
+      "in_time": "2025-08-07 18:25:32",
+      "out_time": "2025-08-07 18:25:32",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "155",
+      "date": "2025-08-07",
+      "in_time": "2025-08-07 22:19:00",
+      "out_time": "2025-08-07 22:19:00",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "148",
+      "date": "2025-08-07",
+      "in_time": "2025-08-07 22:24:16",
+      "out_time": "2025-08-07 22:24:16",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "135",
+      "date": "2025-08-07",
+      "in_time": "2025-08-07 22:28:00",
+      "out_time": "2025-08-07 22:28:00",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "149",
+      "date": "2025-08-07",
+      "in_time": "2025-08-07 22:39:06",
+      "out_time": "2025-08-07 22:39:06",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "157",
+      "date": "2025-08-08",
+      "in_time": "2025-08-08 06:58:49",
+      "out_time": "2025-08-08 15:48:30",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "114",
+      "date": "2025-08-08",
+      "in_time": "2025-08-08 07:27:49",
+      "out_time": "2025-08-08 15:41:05",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "127",
+      "date": "2025-08-08",
+      "in_time": "2025-08-08 07:29:08",
+      "out_time": "2025-08-08 15:45:31",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "161",
+      "date": "2025-08-08",
+      "in_time": "2025-08-08 08:29:52",
+      "out_time": "2025-08-08 18:41:23",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "159",
+      "date": "2025-08-08",
+      "in_time": "2025-08-08 08:43:09",
+      "out_time": "2025-08-08 18:07:56",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "113",
+      "date": "2025-08-08",
+      "in_time": "2025-08-08 08:59:03",
+      "out_time": "2025-08-08 18:17:05",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "151",
+      "date": "2025-08-08",
+      "in_time": "2025-08-08 08:59:11",
+      "out_time": "2025-08-08 18:19:06",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "150",
+      "date": "2025-08-08",
+      "in_time": "2025-08-08 08:59:32",
+      "out_time": "2025-08-08 18:03:37",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "118",
+      "date": "2025-08-08",
+      "in_time": "2025-08-08 08:59:58",
+      "out_time": "2025-08-08 18:33:30",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "140",
+      "date": "2025-08-08",
+      "in_time": "2025-08-08 09:01:48",
+      "out_time": "2025-08-08 18:05:17",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "158",
+      "date": "2025-08-08",
+      "in_time": "2025-08-08 09:02:43",
+      "out_time": "2025-08-08 18:07:59",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "124",
+      "date": "2025-08-08",
+      "in_time": "2025-08-08 09:03:17",
+      "out_time": "2025-08-08 18:17:16",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "137",
+      "date": "2025-08-08",
+      "in_time": "2025-08-08 09:09:14",
+      "out_time": "2025-08-08 18:10:35",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "142",
+      "date": "2025-08-08",
+      "in_time": "2025-08-08 09:10:45",
+      "out_time": "2025-08-08 19:05:56",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "131",
+      "date": "2025-08-08",
+      "in_time": "2025-08-08 09:18:31",
+      "out_time": "2025-08-08 21:33:29",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "4",
+      "date": "2025-08-08",
+      "in_time": "2025-08-08 14:58:40",
+      "out_time": "2025-08-08 22:47:49",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "152",
+      "date": "2025-08-08",
+      "in_time": "2025-08-08 14:59:51",
+      "out_time": "2025-08-08 23:04:11",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "126",
+      "date": "2025-08-08",
+      "in_time": "2025-08-08 15:29:28",
+      "out_time": "2025-08-08 22:59:37",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "135",
+      "date": "2025-08-08",
+      "in_time": "2025-08-08 22:28:16",
+      "out_time": "2025-08-08 22:28:16",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "148",
+      "date": "2025-08-08",
+      "in_time": "2025-08-08 22:36:25",
+      "out_time": "2025-08-08 22:36:25",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "149",
+      "date": "2025-08-08",
+      "in_time": "2025-08-08 22:57:40",
+      "out_time": "2025-08-08 22:57:40",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "129",
+      "date": "2025-08-08",
+      "in_time": "2025-08-08 23:20:01",
+      "out_time": "2025-08-08 23:20:01",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "157",
+      "date": "2025-08-09",
+      "in_time": "2025-08-09 06:55:54",
+      "out_time": "2025-08-09 15:32:21",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "156",
+      "date": "2025-08-09",
+      "in_time": "2025-08-09 06:59:37",
+      "out_time": "2025-08-09 15:31:53",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "127",
+      "date": "2025-08-09",
+      "in_time": "2025-08-09 07:11:21",
+      "out_time": "2025-08-09 15:31:42",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "159",
+      "date": "2025-08-09",
+      "in_time": "2025-08-09 08:48:20",
+      "out_time": "2025-08-09 18:05:19",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "124",
+      "date": "2025-08-09",
+      "in_time": "2025-08-09 08:53:49",
+      "out_time": "2025-08-09 18:12:08",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "143",
+      "date": "2025-08-09",
+      "in_time": "2025-08-09 08:57:35",
+      "out_time": "2025-08-09 18:14:07",
+      "total_punches": 3
+    },
+    {
+      "employee_id": "144",
+      "date": "2025-08-09",
+      "in_time": "2025-08-09 08:57:54",
+      "out_time": "2025-08-09 18:38:22",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "150",
+      "date": "2025-08-09",
+      "in_time": "2025-08-09 08:58:41",
+      "out_time": "2025-08-09 18:38:59",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "118",
+      "date": "2025-08-09",
+      "in_time": "2025-08-09 09:00:32",
+      "out_time": "2025-08-09 19:04:24",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "138",
+      "date": "2025-08-09",
+      "in_time": "2025-08-09 09:00:36",
+      "out_time": "2025-08-09 18:55:09",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "109",
+      "date": "2025-08-09",
+      "in_time": "2025-08-09 09:07:50",
+      "out_time": "2025-08-09 09:07:50",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "117",
+      "date": "2025-08-09",
+      "in_time": "2025-08-09 09:28:47",
+      "out_time": "2025-08-09 18:11:19",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "133",
+      "date": "2025-08-09",
+      "in_time": "2025-08-09 09:34:23",
+      "out_time": "2025-08-09 18:30:30",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "152",
+      "date": "2025-08-09",
+      "in_time": "2025-08-09 15:00:06",
+      "out_time": "2025-08-09 22:37:54",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "130",
+      "date": "2025-08-09",
+      "in_time": "2025-08-09 15:08:09",
+      "out_time": "2025-08-09 22:45:45",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "116",
+      "date": "2025-08-09",
+      "in_time": "2025-08-09 15:27:57",
+      "out_time": "2025-08-09 23:13:21",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "106",
+      "date": "2025-08-09",
+      "in_time": "2025-08-09 15:31:47",
+      "out_time": "2025-08-09 15:31:47",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "155",
+      "date": "2025-08-09",
+      "in_time": "2025-08-09 22:14:22",
+      "out_time": "2025-08-09 22:14:22",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "149",
+      "date": "2025-08-09",
+      "in_time": "2025-08-09 22:29:24",
+      "out_time": "2025-08-09 22:29:24",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "4",
+      "date": "2025-08-09",
+      "in_time": "2025-08-09 22:37:46",
+      "out_time": "2025-08-09 22:37:46",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "148",
+      "date": "2025-08-09",
+      "in_time": "2025-08-09 22:38:36",
+      "out_time": "2025-08-09 22:38:55",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "129",
+      "date": "2025-08-09",
+      "in_time": "2025-08-09 23:08:19",
+      "out_time": "2025-08-09 23:08:19",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "157",
+      "date": "2025-08-10",
+      "in_time": "2025-08-10 06:59:44",
+      "out_time": "2025-08-10 15:33:54",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "156",
+      "date": "2025-08-10",
+      "in_time": "2025-08-10 07:00:07",
+      "out_time": "2025-08-10 07:00:07",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "127",
+      "date": "2025-08-10",
+      "in_time": "2025-08-10 07:12:20",
+      "out_time": "2025-08-10 15:33:23",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "161",
+      "date": "2025-08-10",
+      "in_time": "2025-08-10 08:34:39",
+      "out_time": "2025-08-10 20:46:20",
+      "total_punches": 3
+    },
+    {
+      "employee_id": "144",
+      "date": "2025-08-10",
+      "in_time": "2025-08-10 08:52:05",
+      "out_time": "2025-08-10 18:11:14",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "124",
+      "date": "2025-08-10",
+      "in_time": "2025-08-10 08:52:15",
+      "out_time": "2025-08-10 18:06:38",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "150",
+      "date": "2025-08-10",
+      "in_time": "2025-08-10 08:52:19",
+      "out_time": "2025-08-10 18:17:52",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "140",
+      "date": "2025-08-10",
+      "in_time": "2025-08-10 08:54:46",
+      "out_time": "2025-08-10 18:07:50",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "137",
+      "date": "2025-08-10",
+      "in_time": "2025-08-10 08:58:42",
+      "out_time": "2025-08-10 18:15:21",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "113",
+      "date": "2025-08-10",
+      "in_time": "2025-08-10 08:58:47",
+      "out_time": "2025-08-10 18:05:13",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "138",
+      "date": "2025-08-10",
+      "in_time": "2025-08-10 08:59:29",
+      "out_time": "2025-08-10 18:06:30",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "117",
+      "date": "2025-08-10",
+      "in_time": "2025-08-10 08:59:53",
+      "out_time": "2025-08-10 18:29:36",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "133",
+      "date": "2025-08-10",
+      "in_time": "2025-08-10 09:03:01",
+      "out_time": "2025-08-10 18:21:56",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "131",
+      "date": "2025-08-10",
+      "in_time": "2025-08-10 09:06:45",
+      "out_time": "2025-08-10 21:12:55",
+      "total_punches": 3
+    },
+    {
+      "employee_id": "109",
+      "date": "2025-08-10",
+      "in_time": "2025-08-10 09:07:22",
+      "out_time": "2025-08-10 18:29:53",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "142",
+      "date": "2025-08-10",
+      "in_time": "2025-08-10 09:08:55",
+      "out_time": "2025-08-10 18:17:02",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "118",
+      "date": "2025-08-10",
+      "in_time": "2025-08-10 09:42:38",
+      "out_time": "2025-08-10 18:12:47",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "116",
+      "date": "2025-08-10",
+      "in_time": "2025-08-10 14:56:05",
+      "out_time": "2025-08-10 22:38:11",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "130",
+      "date": "2025-08-10",
+      "in_time": "2025-08-10 14:56:48",
+      "out_time": "2025-08-10 22:34:08",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "106",
+      "date": "2025-08-10",
+      "in_time": "2025-08-10 15:21:33",
+      "out_time": "2025-08-10 15:21:33",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "152",
+      "date": "2025-08-10",
+      "in_time": "2025-08-10 15:32:39",
+      "out_time": "2025-08-10 22:38:05",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "158",
+      "date": "2025-08-10",
+      "in_time": "2025-08-10 18:04:20",
+      "out_time": "2025-08-10 18:04:20",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "129",
+      "date": "2025-08-10",
+      "in_time": "2025-08-10 22:24:38",
+      "out_time": "2025-08-10 22:24:38",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "135",
+      "date": "2025-08-10",
+      "in_time": "2025-08-10 22:28:18",
+      "out_time": "2025-08-10 22:28:18",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "155",
+      "date": "2025-08-10",
+      "in_time": "2025-08-10 22:28:27",
+      "out_time": "2025-08-10 22:28:27",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "126",
+      "date": "2025-08-10",
+      "in_time": "2025-08-10 22:43:36",
+      "out_time": "2025-08-10 22:43:36",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "156",
+      "date": "2025-08-11",
+      "in_time": "2025-08-11 07:00:38",
+      "out_time": "2025-08-11 15:36:08",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "114",
+      "date": "2025-08-11",
+      "in_time": "2025-08-11 07:03:06",
+      "out_time": "2025-08-11 18:29:00",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "127",
+      "date": "2025-08-11",
+      "in_time": "2025-08-11 07:08:31",
+      "out_time": "2025-08-11 15:36:11",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "161",
+      "date": "2025-08-11",
+      "in_time": "2025-08-11 08:38:42",
+      "out_time": "2025-08-11 21:24:59",
+      "total_punches": 4
+    },
+    {
+      "employee_id": "159",
+      "date": "2025-08-11",
+      "in_time": "2025-08-11 08:52:47",
+      "out_time": "2025-08-11 18:11:02",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "109",
+      "date": "2025-08-11",
+      "in_time": "2025-08-11 08:56:37",
+      "out_time": "2025-08-11 16:17:29",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "150",
+      "date": "2025-08-11",
+      "in_time": "2025-08-11 08:57:26",
+      "out_time": "2025-08-11 18:07:22",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "113",
+      "date": "2025-08-11",
+      "in_time": "2025-08-11 08:57:45",
+      "out_time": "2025-08-11 18:05:44",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "118",
+      "date": "2025-08-11",
+      "in_time": "2025-08-11 08:58:12",
+      "out_time": "2025-08-11 08:58:12",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "137",
+      "date": "2025-08-11",
+      "in_time": "2025-08-11 08:58:38",
+      "out_time": "2025-08-11 18:17:00",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "117",
+      "date": "2025-08-11",
+      "in_time": "2025-08-11 08:58:43",
+      "out_time": "2025-08-11 18:18:43",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "138",
+      "date": "2025-08-11",
+      "in_time": "2025-08-11 08:59:30",
+      "out_time": "2025-08-11 18:17:13",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "133",
+      "date": "2025-08-11",
+      "in_time": "2025-08-11 09:01:43",
+      "out_time": "2025-08-11 18:06:26",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "151",
+      "date": "2025-08-11",
+      "in_time": "2025-08-11 09:04:29",
+      "out_time": "2025-08-11 18:07:32",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "131",
+      "date": "2025-08-11",
+      "in_time": "2025-08-11 09:05:24",
+      "out_time": "2025-08-11 09:05:24",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "143",
+      "date": "2025-08-11",
+      "in_time": "2025-08-11 09:07:25",
+      "out_time": "2025-08-11 18:06:04",
+      "total_punches": 3
+    },
+    {
+      "employee_id": "144",
+      "date": "2025-08-11",
+      "in_time": "2025-08-11 09:07:44",
+      "out_time": "2025-08-11 18:22:06",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "158",
+      "date": "2025-08-11",
+      "in_time": "2025-08-11 09:14:31",
+      "out_time": "2025-08-11 18:13:12",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "140",
+      "date": "2025-08-11",
+      "in_time": "2025-08-11 09:19:15",
+      "out_time": "2025-08-11 18:07:41",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "130",
+      "date": "2025-08-11",
+      "in_time": "2025-08-11 11:08:50",
+      "out_time": "2025-08-11 19:21:46",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "4",
+      "date": "2025-08-11",
+      "in_time": "2025-08-11 14:39:23",
+      "out_time": "2025-08-11 22:42:29",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "116",
+      "date": "2025-08-11",
+      "in_time": "2025-08-11 14:56:42",
+      "out_time": "2025-08-11 22:45:11",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "152",
+      "date": "2025-08-11",
+      "in_time": "2025-08-11 15:04:48",
+      "out_time": "2025-08-11 22:40:01",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "163",
+      "date": "2025-08-11",
+      "in_time": "2025-08-11 18:09:04",
+      "out_time": "2025-08-11 18:09:04",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "126",
+      "date": "2025-08-11",
+      "in_time": "2025-08-11 20:25:29",
+      "out_time": "2025-08-11 20:25:29",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "155",
+      "date": "2025-08-11",
+      "in_time": "2025-08-11 21:58:30",
+      "out_time": "2025-08-11 21:58:30",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "129",
+      "date": "2025-08-11",
+      "in_time": "2025-08-11 22:23:04",
+      "out_time": "2025-08-11 22:23:04",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "135",
+      "date": "2025-08-11",
+      "in_time": "2025-08-11 22:26:34",
+      "out_time": "2025-08-11 22:26:34",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "148",
+      "date": "2025-08-11",
+      "in_time": "2025-08-11 23:02:21",
+      "out_time": "2025-08-11 23:02:21",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "157",
+      "date": "2025-08-12",
+      "in_time": "2025-08-12 06:56:23",
+      "out_time": "2025-08-12 16:27:26",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "156",
+      "date": "2025-08-12",
+      "in_time": "2025-08-12 07:03:51",
+      "out_time": "2025-08-12 15:36:25",
+      "total_punches": 3
+    },
+    {
+      "employee_id": "106",
+      "date": "2025-08-12",
+      "in_time": "2025-08-12 07:08:43",
+      "out_time": "2025-08-12 15:36:55",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "127",
+      "date": "2025-08-12",
+      "in_time": "2025-08-12 07:09:43",
+      "out_time": "2025-08-12 15:36:39",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "161",
+      "date": "2025-08-12",
+      "in_time": "2025-08-12 08:40:30",
+      "out_time": "2025-08-12 08:40:30",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "150",
+      "date": "2025-08-12",
+      "in_time": "2025-08-12 08:43:07",
+      "out_time": "2025-08-12 08:43:07",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "140",
+      "date": "2025-08-12",
+      "in_time": "2025-08-12 08:48:47",
+      "out_time": "2025-08-12 18:11:46",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "163",
+      "date": "2025-08-12",
+      "in_time": "2025-08-12 08:54:11",
+      "out_time": "2025-08-12 18:23:34",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "124",
+      "date": "2025-08-12",
+      "in_time": "2025-08-12 08:54:19",
+      "out_time": "2025-08-12 18:13:38",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "137",
+      "date": "2025-08-12",
+      "in_time": "2025-08-12 08:57:28",
+      "out_time": "2025-08-12 18:21:01",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "138",
+      "date": "2025-08-12",
+      "in_time": "2025-08-12 08:58:31",
+      "out_time": "2025-08-12 18:03:32",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "113",
+      "date": "2025-08-12",
+      "in_time": "2025-08-12 08:58:34",
+      "out_time": "2025-08-12 18:01:56",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "117",
+      "date": "2025-08-12",
+      "in_time": "2025-08-12 08:58:45",
+      "out_time": "2025-08-12 18:05:28",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "142",
+      "date": "2025-08-12",
+      "in_time": "2025-08-12 09:01:04",
+      "out_time": "2025-08-12 18:21:10",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "143",
+      "date": "2025-08-12",
+      "in_time": "2025-08-12 09:01:58",
+      "out_time": "2025-08-12 18:10:55",
+      "total_punches": 3
+    },
+    {
+      "employee_id": "144",
+      "date": "2025-08-12",
+      "in_time": "2025-08-12 09:02:19",
+      "out_time": "2025-08-12 18:21:44",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "109",
+      "date": "2025-08-12",
+      "in_time": "2025-08-12 09:03:21",
+      "out_time": "2025-08-12 09:03:21",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "151",
+      "date": "2025-08-12",
+      "in_time": "2025-08-12 09:06:25",
+      "out_time": "2025-08-12 18:48:15",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "159",
+      "date": "2025-08-12",
+      "in_time": "2025-08-12 09:14:40",
+      "out_time": "2025-08-12 18:03:52",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "133",
+      "date": "2025-08-12",
+      "in_time": "2025-08-12 09:25:06",
+      "out_time": "2025-08-12 09:25:06",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "131",
+      "date": "2025-08-12",
+      "in_time": "2025-08-12 09:31:21",
+      "out_time": "2025-08-12 18:48:31",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "130",
+      "date": "2025-08-12",
+      "in_time": "2025-08-12 14:00:43",
+      "out_time": "2025-08-12 22:24:07",
+      "total_punches": 3
+    },
+    {
+      "employee_id": "4",
+      "date": "2025-08-12",
+      "in_time": "2025-08-12 14:20:25",
+      "out_time": "2025-08-12 22:32:46",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "116",
+      "date": "2025-08-12",
+      "in_time": "2025-08-12 14:47:58",
+      "out_time": "2025-08-12 22:49:59",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "129",
+      "date": "2025-08-12",
+      "in_time": "2025-08-12 22:12:38",
+      "out_time": "2025-08-12 22:12:38",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "135",
+      "date": "2025-08-12",
+      "in_time": "2025-08-12 22:20:03",
+      "out_time": "2025-08-12 22:20:03",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "155",
+      "date": "2025-08-12",
+      "in_time": "2025-08-12 22:23:33",
+      "out_time": "2025-08-12 22:23:33",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "126",
+      "date": "2025-08-12",
+      "in_time": "2025-08-12 22:25:35",
+      "out_time": "2025-08-12 22:25:35",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "148",
+      "date": "2025-08-12",
+      "in_time": "2025-08-12 22:35:07",
+      "out_time": "2025-08-12 22:35:07",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "157",
+      "date": "2025-08-13",
+      "in_time": "2025-08-13 06:55:05",
+      "out_time": "2025-08-13 15:38:34",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "156",
+      "date": "2025-08-13",
+      "in_time": "2025-08-13 07:04:44",
+      "out_time": "2025-08-13 15:33:05",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "106",
+      "date": "2025-08-13",
+      "in_time": "2025-08-13 07:10:15",
+      "out_time": "2025-08-13 07:10:15",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "127",
+      "date": "2025-08-13",
+      "in_time": "2025-08-13 07:17:30",
+      "out_time": "2025-08-13 15:32:55",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "161",
+      "date": "2025-08-13",
+      "in_time": "2025-08-13 08:40:30",
+      "out_time": "2025-08-13 20:47:09",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "163",
+      "date": "2025-08-13",
+      "in_time": "2025-08-13 08:46:53",
+      "out_time": "2025-08-13 08:46:53",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "142",
+      "date": "2025-08-13",
+      "in_time": "2025-08-13 08:57:14",
+      "out_time": "2025-08-13 18:14:15",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "159",
+      "date": "2025-08-13",
+      "in_time": "2025-08-13 08:57:39",
+      "out_time": "2025-08-13 18:12:45",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "133",
+      "date": "2025-08-13",
+      "in_time": "2025-08-13 08:58:48",
+      "out_time": "2025-08-13 18:23:32",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "131",
+      "date": "2025-08-13",
+      "in_time": "2025-08-13 08:59:04",
+      "out_time": "2025-08-13 08:59:04",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "113",
+      "date": "2025-08-13",
+      "in_time": "2025-08-13 09:00:13",
+      "out_time": "2025-08-13 18:15:37",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "143",
+      "date": "2025-08-13",
+      "in_time": "2025-08-13 09:08:00",
+      "out_time": "2025-08-13 09:08:00",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "151",
+      "date": "2025-08-13",
+      "in_time": "2025-08-13 09:09:06",
+      "out_time": "2025-08-13 18:23:13",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "138",
+      "date": "2025-08-13",
+      "in_time": "2025-08-13 09:09:28",
+      "out_time": "2025-08-13 18:16:48",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "144",
+      "date": "2025-08-13",
+      "in_time": "2025-08-13 09:10:33",
+      "out_time": "2025-08-13 18:16:59",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "158",
+      "date": "2025-08-13",
+      "in_time": "2025-08-13 09:12:41",
+      "out_time": "2025-08-13 18:12:34",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "117",
+      "date": "2025-08-13",
+      "in_time": "2025-08-13 09:57:49",
+      "out_time": "2025-08-13 18:36:15",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "162",
+      "date": "2025-08-13",
+      "in_time": "2025-08-13 10:06:24",
+      "out_time": "2025-08-13 18:18:37",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "4",
+      "date": "2025-08-13",
+      "in_time": "2025-08-13 14:48:56",
+      "out_time": "2025-08-13 22:34:58",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "130",
+      "date": "2025-08-13",
+      "in_time": "2025-08-13 14:58:09",
+      "out_time": "2025-08-13 22:35:33",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "152",
+      "date": "2025-08-13",
+      "in_time": "2025-08-13 15:00:22",
+      "out_time": "2025-08-13 15:00:22",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "149",
+      "date": "2025-08-13",
+      "in_time": "2025-08-13 15:00:25",
+      "out_time": "2025-08-13 22:51:50",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "116",
+      "date": "2025-08-13",
+      "in_time": "2025-08-13 15:25:52",
+      "out_time": "2025-08-13 22:39:18",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "109",
+      "date": "2025-08-13",
+      "in_time": "2025-08-13 15:40:31",
+      "out_time": "2025-08-13 18:18:29",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "129",
+      "date": "2025-08-13",
+      "in_time": "2025-08-13 22:23:33",
+      "out_time": "2025-08-13 22:23:33",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "135",
+      "date": "2025-08-13",
+      "in_time": "2025-08-13 22:26:55",
+      "out_time": "2025-08-13 22:26:55",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "126",
+      "date": "2025-08-13",
+      "in_time": "2025-08-13 22:39:28",
+      "out_time": "2025-08-13 22:39:28",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "155",
+      "date": "2025-08-13",
+      "in_time": "2025-08-13 22:39:32",
+      "out_time": "2025-08-13 22:39:32",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "156",
+      "date": "2025-08-14",
+      "in_time": "2025-08-14 06:56:41",
+      "out_time": "2025-08-14 15:35:56",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "157",
+      "date": "2025-08-14",
+      "in_time": "2025-08-14 06:58:03",
+      "out_time": "2025-08-14 15:31:28",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "127",
+      "date": "2025-08-14",
+      "in_time": "2025-08-14 07:07:28",
+      "out_time": "2025-08-14 15:32:48",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "106",
+      "date": "2025-08-14",
+      "in_time": "2025-08-14 07:09:00",
+      "out_time": "2025-08-14 07:09:00",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "114",
+      "date": "2025-08-14",
+      "in_time": "2025-08-14 07:09:10",
+      "out_time": "2025-08-14 15:28:58",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "161",
+      "date": "2025-08-14",
+      "in_time": "2025-08-14 08:37:04",
+      "out_time": "2025-08-14 08:37:04",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "163",
+      "date": "2025-08-14",
+      "in_time": "2025-08-14 08:39:43",
+      "out_time": "2025-08-14 18:14:17",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "124",
+      "date": "2025-08-14",
+      "in_time": "2025-08-14 08:48:22",
+      "out_time": "2025-08-14 18:19:55",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "109",
+      "date": "2025-08-14",
+      "in_time": "2025-08-14 08:51:03",
+      "out_time": "2025-08-14 15:39:10",
+      "total_punches": 3
+    },
+    {
+      "employee_id": "150",
+      "date": "2025-08-14",
+      "in_time": "2025-08-14 08:54:32",
+      "out_time": "2025-08-14 18:31:14",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "138",
+      "date": "2025-08-14",
+      "in_time": "2025-08-14 08:55:32",
+      "out_time": "2025-08-14 18:09:38",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "117",
+      "date": "2025-08-14",
+      "in_time": "2025-08-14 08:55:36",
+      "out_time": "2025-08-14 18:09:41",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "140",
+      "date": "2025-08-14",
+      "in_time": "2025-08-14 08:56:14",
+      "out_time": "2025-08-14 18:19:30",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "113",
+      "date": "2025-08-14",
+      "in_time": "2025-08-14 08:57:39",
+      "out_time": "2025-08-14 18:09:28",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "137",
+      "date": "2025-08-14",
+      "in_time": "2025-08-14 08:59:07",
+      "out_time": "2025-08-14 18:27:37",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "158",
+      "date": "2025-08-14",
+      "in_time": "2025-08-14 08:59:30",
+      "out_time": "2025-08-14 18:08:39",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "142",
+      "date": "2025-08-14",
+      "in_time": "2025-08-14 09:01:18",
+      "out_time": "2025-08-14 18:27:48",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "151",
+      "date": "2025-08-14",
+      "in_time": "2025-08-14 09:01:27",
+      "out_time": "2025-08-14 09:01:27",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "159",
+      "date": "2025-08-14",
+      "in_time": "2025-08-14 09:01:39",
+      "out_time": "2025-08-14 18:08:54",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "144",
+      "date": "2025-08-14",
+      "in_time": "2025-08-14 09:05:03",
+      "out_time": "2025-08-14 18:39:23",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "160",
+      "date": "2025-08-14",
+      "in_time": "2025-08-14 09:06:44",
+      "out_time": "2025-08-14 09:06:44",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "131",
+      "date": "2025-08-14",
+      "in_time": "2025-08-14 09:13:18",
+      "out_time": "2025-08-14 09:13:18",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "133",
+      "date": "2025-08-14",
+      "in_time": "2025-08-14 10:02:49",
+      "out_time": "2025-08-14 18:13:42",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "4",
+      "date": "2025-08-14",
+      "in_time": "2025-08-14 14:36:43",
+      "out_time": "2025-08-14 22:33:08",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "130",
+      "date": "2025-08-14",
+      "in_time": "2025-08-14 15:07:58",
+      "out_time": "2025-08-14 22:40:45",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "149",
+      "date": "2025-08-14",
+      "in_time": "2025-08-14 15:18:55",
+      "out_time": "2025-08-14 22:57:51",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "152",
+      "date": "2025-08-14",
+      "in_time": "2025-08-14 15:19:31",
+      "out_time": "2025-08-14 22:39:41",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "162",
+      "date": "2025-08-14",
+      "in_time": "2025-08-14 18:10:43",
+      "out_time": "2025-08-14 18:10:43",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "126",
+      "date": "2025-08-14",
+      "in_time": "2025-08-14 18:16:04",
+      "out_time": "2025-08-14 18:16:04",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "155",
+      "date": "2025-08-14",
+      "in_time": "2025-08-14 22:02:10",
+      "out_time": "2025-08-14 22:02:22",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "135",
+      "date": "2025-08-14",
+      "in_time": "2025-08-14 22:12:36",
+      "out_time": "2025-08-14 22:12:36",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "148",
+      "date": "2025-08-14",
+      "in_time": "2025-08-14 22:27:21",
+      "out_time": "2025-08-14 22:27:21",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "129",
+      "date": "2025-08-14",
+      "in_time": "2025-08-14 23:33:49",
+      "out_time": "2025-08-14 23:33:49",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "127",
+      "date": "2025-08-15",
+      "in_time": "2025-08-15 07:00:57",
+      "out_time": "2025-08-15 15:31:04",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "114",
+      "date": "2025-08-15",
+      "in_time": "2025-08-15 07:08:30",
+      "out_time": "2025-08-15 15:30:05",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "161",
+      "date": "2025-08-15",
+      "in_time": "2025-08-15 08:18:26",
+      "out_time": "2025-08-15 18:52:46",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "159",
+      "date": "2025-08-15",
+      "in_time": "2025-08-15 08:28:53",
+      "out_time": "2025-08-15 18:07:35",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "131",
+      "date": "2025-08-15",
+      "in_time": "2025-08-15 08:52:05",
+      "out_time": "2025-08-15 08:52:05",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "163",
+      "date": "2025-08-15",
+      "in_time": "2025-08-15 08:52:13",
+      "out_time": "2025-08-15 18:08:00",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "162",
+      "date": "2025-08-15",
+      "in_time": "2025-08-15 08:52:55",
+      "out_time": "2025-08-15 08:52:55",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "158",
+      "date": "2025-08-15",
+      "in_time": "2025-08-15 08:53:08",
+      "out_time": "2025-08-15 18:06:43",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "124",
+      "date": "2025-08-15",
+      "in_time": "2025-08-15 08:53:40",
+      "out_time": "2025-08-15 18:07:28",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "137",
+      "date": "2025-08-15",
+      "in_time": "2025-08-15 08:58:24",
+      "out_time": "2025-08-15 18:19:39",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "113",
+      "date": "2025-08-15",
+      "in_time": "2025-08-15 08:58:43",
+      "out_time": "2025-08-15 18:07:20",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "150",
+      "date": "2025-08-15",
+      "in_time": "2025-08-15 08:59:02",
+      "out_time": "2025-08-15 18:18:51",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "142",
+      "date": "2025-08-15",
+      "in_time": "2025-08-15 09:02:23",
+      "out_time": "2025-08-15 15:20:03",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "160",
+      "date": "2025-08-15",
+      "in_time": "2025-08-15 09:09:27",
+      "out_time": "2025-08-15 18:22:45",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "4",
+      "date": "2025-08-15",
+      "in_time": "2025-08-15 14:50:10",
+      "out_time": "2025-08-15 22:37:20",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "157",
+      "date": "2025-08-15",
+      "in_time": "2025-08-15 14:58:02",
+      "out_time": "2025-08-15 22:07:46",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "149",
+      "date": "2025-08-15",
+      "in_time": "2025-08-15 15:13:27",
+      "out_time": "2025-08-15 22:42:55",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "152",
+      "date": "2025-08-15",
+      "in_time": "2025-08-15 15:30:52",
+      "out_time": "2025-08-15 15:30:52",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "126",
+      "date": "2025-08-15",
+      "in_time": "2025-08-15 18:41:18",
+      "out_time": "2025-08-15 18:41:18",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "129",
+      "date": "2025-08-15",
+      "in_time": "2025-08-15 22:21:10",
+      "out_time": "2025-08-15 22:21:10",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "135",
+      "date": "2025-08-15",
+      "in_time": "2025-08-15 22:26:21",
+      "out_time": "2025-08-15 22:26:21",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "148",
+      "date": "2025-08-15",
+      "in_time": "2025-08-15 22:47:37",
+      "out_time": "2025-08-15 22:47:37",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "157",
+      "date": "2025-08-16",
+      "in_time": "2025-08-16 07:01:06",
+      "out_time": "2025-08-16 15:33:48",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "114",
+      "date": "2025-08-16",
+      "in_time": "2025-08-16 07:07:37",
+      "out_time": "2025-08-16 15:32:04",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "106",
+      "date": "2025-08-16",
+      "in_time": "2025-08-16 08:01:44",
+      "out_time": "2025-08-16 08:01:44",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "159",
+      "date": "2025-08-16",
+      "in_time": "2025-08-16 08:42:10",
+      "out_time": "2025-08-16 18:08:59",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "109",
+      "date": "2025-08-16",
+      "in_time": "2025-08-16 08:49:04",
+      "out_time": "2025-08-16 08:49:04",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "163",
+      "date": "2025-08-16",
+      "in_time": "2025-08-16 08:51:02",
+      "out_time": "2025-08-16 18:12:51",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "124",
+      "date": "2025-08-16",
+      "in_time": "2025-08-16 08:51:23",
+      "out_time": "2025-08-16 18:32:39",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "143",
+      "date": "2025-08-16",
+      "in_time": "2025-08-16 08:53:45",
+      "out_time": "2025-08-16 18:20:45",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "144",
+      "date": "2025-08-16",
+      "in_time": "2025-08-16 08:58:45",
+      "out_time": "2025-08-16 18:41:04",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "150",
+      "date": "2025-08-16",
+      "in_time": "2025-08-16 08:59:30",
+      "out_time": "2025-08-16 18:09:31",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "138",
+      "date": "2025-08-16",
+      "in_time": "2025-08-16 09:00:28",
+      "out_time": "2025-08-16 18:54:58",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "113",
+      "date": "2025-08-16",
+      "in_time": "2025-08-16 09:00:30",
+      "out_time": "2025-08-16 09:00:30",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "151",
+      "date": "2025-08-16",
+      "in_time": "2025-08-16 09:30:22",
+      "out_time": "2025-08-16 18:16:41",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "133",
+      "date": "2025-08-16",
+      "in_time": "2025-08-16 09:32:11",
+      "out_time": "2025-08-16 18:11:19",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "118",
+      "date": "2025-08-16",
+      "in_time": "2025-08-16 10:29:06",
+      "out_time": "2025-08-16 18:33:20",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "155",
+      "date": "2025-08-16",
+      "in_time": "2025-08-16 14:30:15",
+      "out_time": "2025-08-16 22:36:48",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "4",
+      "date": "2025-08-16",
+      "in_time": "2025-08-16 14:48:41",
+      "out_time": "2025-08-16 22:52:26",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "149",
+      "date": "2025-08-16",
+      "in_time": "2025-08-16 15:07:48",
+      "out_time": "2025-08-16 22:30:47",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "152",
+      "date": "2025-08-16",
+      "in_time": "2025-08-16 17:16:47",
+      "out_time": "2025-08-16 22:52:40",
+      "total_punches": 3
+    },
+    {
+      "employee_id": "156",
+      "date": "2025-08-16",
+      "in_time": "2025-08-16 22:00:00",
+      "out_time": "2025-08-16 22:00:00",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "130",
+      "date": "2025-08-16",
+      "in_time": "2025-08-16 22:27:12",
+      "out_time": "2025-08-16 22:27:12",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "148",
+      "date": "2025-08-16",
+      "in_time": "2025-08-16 22:56:55",
+      "out_time": "2025-08-16 22:56:55",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "116",
+      "date": "2025-08-16",
+      "in_time": "2025-08-16 23:03:27",
+      "out_time": "2025-08-16 23:03:27",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "135",
+      "date": "2025-08-17",
+      "in_time": "2025-08-17 06:59:45",
+      "out_time": "2025-08-17 15:42:54",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "157",
+      "date": "2025-08-17",
+      "in_time": "2025-08-17 07:01:33",
+      "out_time": "2025-08-17 15:40:01",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "106",
+      "date": "2025-08-17",
+      "in_time": "2025-08-17 07:08:00",
+      "out_time": "2025-08-17 15:42:31",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "156",
+      "date": "2025-08-17",
+      "in_time": "2025-08-17 07:19:14",
+      "out_time": "2025-08-17 22:21:36",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "126",
+      "date": "2025-08-17",
+      "in_time": "2025-08-17 07:31:32",
+      "out_time": "2025-08-17 15:33:19",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "124",
+      "date": "2025-08-17",
+      "in_time": "2025-08-17 08:55:32",
+      "out_time": "2025-08-17 18:21:32",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "161",
+      "date": "2025-08-17",
+      "in_time": "2025-08-17 08:56:28",
+      "out_time": "2025-08-17 22:36:15",
+      "total_punches": 3
+    },
+    {
+      "employee_id": "109",
+      "date": "2025-08-17",
+      "in_time": "2025-08-17 08:58:11",
+      "out_time": "2025-08-17 08:58:11",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "137",
+      "date": "2025-08-17",
+      "in_time": "2025-08-17 08:58:36",
+      "out_time": "2025-08-17 18:19:21",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "138",
+      "date": "2025-08-17",
+      "in_time": "2025-08-17 08:59:34",
+      "out_time": "2025-08-17 18:20:04",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "150",
+      "date": "2025-08-17",
+      "in_time": "2025-08-17 09:00:09",
+      "out_time": "2025-08-17 18:05:31",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "118",
+      "date": "2025-08-17",
+      "in_time": "2025-08-17 09:00:38",
+      "out_time": "2025-08-17 18:19:43",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "133",
+      "date": "2025-08-17",
+      "in_time": "2025-08-17 09:06:46",
+      "out_time": "2025-08-17 09:06:46",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "131",
+      "date": "2025-08-17",
+      "in_time": "2025-08-17 09:09:12",
+      "out_time": "2025-08-17 09:09:12",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "140",
+      "date": "2025-08-17",
+      "in_time": "2025-08-17 09:15:56",
+      "out_time": "2025-08-17 18:06:48",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "144",
+      "date": "2025-08-17",
+      "in_time": "2025-08-17 09:29:55",
+      "out_time": "2025-08-17 18:25:14",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "143",
+      "date": "2025-08-17",
+      "in_time": "2025-08-17 10:13:12",
+      "out_time": "2025-08-17 10:13:12",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "160",
+      "date": "2025-08-17",
+      "in_time": "2025-08-17 10:36:18",
+      "out_time": "2025-08-17 18:57:14",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "129",
+      "date": "2025-08-17",
+      "in_time": "2025-08-17 14:43:53",
+      "out_time": "2025-08-17 22:51:09",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "155",
+      "date": "2025-08-17",
+      "in_time": "2025-08-17 14:47:32",
+      "out_time": "2025-08-17 22:36:11",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "152",
+      "date": "2025-08-17",
+      "in_time": "2025-08-17 14:57:42",
+      "out_time": "2025-08-17 14:57:42",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "114",
+      "date": "2025-08-17",
+      "in_time": "2025-08-17 14:59:58",
+      "out_time": "2025-08-17 22:44:36",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "116",
+      "date": "2025-08-17",
+      "in_time": "2025-08-17 22:11:40",
+      "out_time": "2025-08-17 22:11:40",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "4",
+      "date": "2025-08-18",
+      "in_time": "2025-08-18 07:00:31",
+      "out_time": "2025-08-18 17:38:02",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "135",
+      "date": "2025-08-18",
+      "in_time": "2025-08-18 07:05:08",
+      "out_time": "2025-08-18 07:05:08",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "126",
+      "date": "2025-08-18",
+      "in_time": "2025-08-18 07:05:28",
+      "out_time": "2025-08-18 07:05:28",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "161",
+      "date": "2025-08-18",
+      "in_time": "2025-08-18 08:43:32",
+      "out_time": "2025-08-18 19:38:36",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "163",
+      "date": "2025-08-18",
+      "in_time": "2025-08-18 08:43:44",
+      "out_time": "2025-08-18 08:43:44",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "150",
+      "date": "2025-08-18",
+      "in_time": "2025-08-18 08:53:57",
+      "out_time": "2025-08-18 18:25:54",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "144",
+      "date": "2025-08-18",
+      "in_time": "2025-08-18 08:57:09",
+      "out_time": "2025-08-18 18:01:07",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "162",
+      "date": "2025-08-18",
+      "in_time": "2025-08-18 08:58:03",
+      "out_time": "2025-08-18 18:13:59",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "137",
+      "date": "2025-08-18",
+      "in_time": "2025-08-18 08:59:25",
+      "out_time": "2025-08-18 18:16:36",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "118",
+      "date": "2025-08-18",
+      "in_time": "2025-08-18 09:01:04",
+      "out_time": "2025-08-18 18:27:14",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "151",
+      "date": "2025-08-18",
+      "in_time": "2025-08-18 09:02:44",
+      "out_time": "2025-08-18 18:25:41",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "142",
+      "date": "2025-08-18",
+      "in_time": "2025-08-18 09:03:27",
+      "out_time": "2025-08-18 18:09:14",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "159",
+      "date": "2025-08-18",
+      "in_time": "2025-08-18 09:04:03",
+      "out_time": "2025-08-18 18:03:50",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "109",
+      "date": "2025-08-18",
+      "in_time": "2025-08-18 09:04:08",
+      "out_time": "2025-08-18 09:04:08",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "133",
+      "date": "2025-08-18",
+      "in_time": "2025-08-18 09:07:20",
+      "out_time": "2025-08-18 09:07:20",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "131",
+      "date": "2025-08-18",
+      "in_time": "2025-08-18 09:08:22",
+      "out_time": "2025-08-18 09:08:22",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "158",
+      "date": "2025-08-18",
+      "in_time": "2025-08-18 09:08:28",
+      "out_time": "2025-08-18 18:03:39",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "143",
+      "date": "2025-08-18",
+      "in_time": "2025-08-18 09:13:05",
+      "out_time": "2025-08-18 18:34:46",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "160",
+      "date": "2025-08-18",
+      "in_time": "2025-08-18 09:13:24",
+      "out_time": "2025-08-18 18:14:16",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "140",
+      "date": "2025-08-18",
+      "in_time": "2025-08-18 09:16:39",
+      "out_time": "2025-08-18 18:24:12",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "138",
+      "date": "2025-08-18",
+      "in_time": "2025-08-18 09:37:10",
+      "out_time": "2025-08-18 09:37:10",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "155",
+      "date": "2025-08-18",
+      "in_time": "2025-08-18 16:49:25",
+      "out_time": "2025-08-18 22:47:24",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "129",
+      "date": "2025-08-18",
+      "in_time": "2025-08-18 16:49:46",
+      "out_time": "2025-08-18 22:47:27",
+      "total_punches": 3
+    },
+    {
+      "employee_id": "114",
+      "date": "2025-08-18",
+      "in_time": "2025-08-18 16:50:03",
+      "out_time": "2025-08-18 22:35:04",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "149",
+      "date": "2025-08-18",
+      "in_time": "2025-08-18 16:50:21",
+      "out_time": "2025-08-18 22:46:38",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "130",
+      "date": "2025-08-18",
+      "in_time": "2025-08-18 22:28:41",
+      "out_time": "2025-08-18 22:28:41",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "148",
+      "date": "2025-08-18",
+      "in_time": "2025-08-18 22:32:53",
+      "out_time": "2025-08-18 22:32:53",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "156",
+      "date": "2025-08-18",
+      "in_time": "2025-08-18 22:34:06",
+      "out_time": "2025-08-18 22:34:06",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "127",
+      "date": "2025-08-18",
+      "in_time": "2025-08-18 22:34:14",
+      "out_time": "2025-08-18 22:34:14",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "116",
+      "date": "2025-08-18",
+      "in_time": "2025-08-18 23:07:40",
+      "out_time": "2025-08-18 23:07:40",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "152",
+      "date": "2025-08-19",
+      "in_time": "2025-08-19 06:56:31",
+      "out_time": "2025-08-19 18:34:14",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "4",
+      "date": "2025-08-19",
+      "in_time": "2025-08-19 06:56:39",
+      "out_time": "2025-08-19 18:03:04",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "135",
+      "date": "2025-08-19",
+      "in_time": "2025-08-19 06:59:40",
+      "out_time": "2025-08-19 18:04:27",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "106",
+      "date": "2025-08-19",
+      "in_time": "2025-08-19 07:07:55",
+      "out_time": "2025-08-19 07:07:55",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "126",
+      "date": "2025-08-19",
+      "in_time": "2025-08-19 07:08:03",
+      "out_time": "2025-08-19 07:08:03",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "161",
+      "date": "2025-08-19",
+      "in_time": "2025-08-19 08:46:18",
+      "out_time": "2025-08-19 20:40:42",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "124",
+      "date": "2025-08-19",
+      "in_time": "2025-08-19 08:53:32",
+      "out_time": "2025-08-19 18:19:00",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "163",
+      "date": "2025-08-19",
+      "in_time": "2025-08-19 08:54:26",
+      "out_time": "2025-08-19 08:54:26",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "143",
+      "date": "2025-08-19",
+      "in_time": "2025-08-19 08:55:48",
+      "out_time": "2025-08-19 18:22:57",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "150",
+      "date": "2025-08-19",
+      "in_time": "2025-08-19 08:57:27",
+      "out_time": "2025-08-19 18:34:18",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "137",
+      "date": "2025-08-19",
+      "in_time": "2025-08-19 08:58:49",
+      "out_time": "2025-08-19 18:17:22",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "138",
+      "date": "2025-08-19",
+      "in_time": "2025-08-19 08:58:55",
+      "out_time": "2025-08-19 18:26:19",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "118",
+      "date": "2025-08-19",
+      "in_time": "2025-08-19 08:59:00",
+      "out_time": "2025-08-19 18:26:14",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "159",
+      "date": "2025-08-19",
+      "in_time": "2025-08-19 09:02:31",
+      "out_time": "2025-08-19 18:06:49",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "142",
+      "date": "2025-08-19",
+      "in_time": "2025-08-19 09:03:08",
+      "out_time": "2025-08-19 18:19:09",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "144",
+      "date": "2025-08-19",
+      "in_time": "2025-08-19 09:03:16",
+      "out_time": "2025-08-19 18:26:28",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "109",
+      "date": "2025-08-19",
+      "in_time": "2025-08-19 09:04:00",
+      "out_time": "2025-08-19 09:04:00",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "131",
+      "date": "2025-08-19",
+      "in_time": "2025-08-19 09:04:07",
+      "out_time": "2025-08-19 09:04:07",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "140",
+      "date": "2025-08-19",
+      "in_time": "2025-08-19 09:07:30",
+      "out_time": "2025-08-19 18:19:44",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "151",
+      "date": "2025-08-19",
+      "in_time": "2025-08-19 09:07:45",
+      "out_time": "2025-08-19 18:40:43",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "160",
+      "date": "2025-08-19",
+      "in_time": "2025-08-19 09:09:16",
+      "out_time": "2025-08-19 18:19:26",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "158",
+      "date": "2025-08-19",
+      "in_time": "2025-08-19 09:13:50",
+      "out_time": "2025-08-19 18:06:55",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "157",
+      "date": "2025-08-19",
+      "in_time": "2025-08-19 14:40:19",
+      "out_time": "2025-08-19 22:03:39",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "155",
+      "date": "2025-08-19",
+      "in_time": "2025-08-19 14:48:10",
+      "out_time": "2025-08-19 22:41:53",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "129",
+      "date": "2025-08-19",
+      "in_time": "2025-08-19 14:49:56",
+      "out_time": "2025-08-19 22:40:58",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "114",
+      "date": "2025-08-19",
+      "in_time": "2025-08-19 15:07:07",
+      "out_time": "2025-08-19 22:36:21",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "149",
+      "date": "2025-08-19",
+      "in_time": "2025-08-19 15:12:33",
+      "out_time": "2025-08-19 22:41:15",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "116",
+      "date": "2025-08-19",
+      "in_time": "2025-08-19 22:27:27",
+      "out_time": "2025-08-19 22:27:27",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "130",
+      "date": "2025-08-19",
+      "in_time": "2025-08-19 22:33:11",
+      "out_time": "2025-08-19 22:33:11",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "148",
+      "date": "2025-08-19",
+      "in_time": "2025-08-19 22:33:34",
+      "out_time": "2025-08-19 22:33:34",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "127",
+      "date": "2025-08-19",
+      "in_time": "2025-08-19 22:35:54",
+      "out_time": "2025-08-19 22:35:54",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "156",
+      "date": "2025-08-19",
+      "in_time": "2025-08-19 22:41:28",
+      "out_time": "2025-08-19 22:41:28",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "4",
+      "date": "2025-08-20",
+      "in_time": "2025-08-20 06:56:53",
+      "out_time": "2025-08-20 15:35:33",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "135",
+      "date": "2025-08-20",
+      "in_time": "2025-08-20 07:01:48",
+      "out_time": "2025-08-20 15:32:19",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "126",
+      "date": "2025-08-20",
+      "in_time": "2025-08-20 07:08:35",
+      "out_time": "2025-08-20 15:32:11",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "157",
+      "date": "2025-08-20",
+      "in_time": "2025-08-20 07:13:00",
+      "out_time": "2025-08-20 15:32:28",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "106",
+      "date": "2025-08-20",
+      "in_time": "2025-08-20 08:12:23",
+      "out_time": "2025-08-20 15:33:44",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "161",
+      "date": "2025-08-20",
+      "in_time": "2025-08-20 08:43:03",
+      "out_time": "2025-08-20 19:22:51",
+      "total_punches": 3
+    },
+    {
+      "employee_id": "159",
+      "date": "2025-08-20",
+      "in_time": "2025-08-20 08:54:09",
+      "out_time": "2025-08-20 18:07:07",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "124",
+      "date": "2025-08-20",
+      "in_time": "2025-08-20 08:54:20",
+      "out_time": "2025-08-20 13:32:06",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "163",
+      "date": "2025-08-20",
+      "in_time": "2025-08-20 08:57:38",
+      "out_time": "2025-08-20 10:06:09",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "109",
+      "date": "2025-08-20",
+      "in_time": "2025-08-20 08:57:51",
+      "out_time": "2025-08-20 18:08:33",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "138",
+      "date": "2025-08-20",
+      "in_time": "2025-08-20 08:59:23",
+      "out_time": "2025-08-20 18:12:34",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "137",
+      "date": "2025-08-20",
+      "in_time": "2025-08-20 08:59:31",
+      "out_time": "2025-08-20 18:09:38",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "118",
+      "date": "2025-08-20",
+      "in_time": "2025-08-20 09:00:13",
+      "out_time": "2025-08-20 18:12:35",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "158",
+      "date": "2025-08-20",
+      "in_time": "2025-08-20 09:01:05",
+      "out_time": "2025-08-20 18:07:16",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "160",
+      "date": "2025-08-20",
+      "in_time": "2025-08-20 09:04:36",
+      "out_time": "2025-08-20 18:19:59",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "142",
+      "date": "2025-08-20",
+      "in_time": "2025-08-20 09:07:01",
+      "out_time": "2025-08-20 14:04:36",
+      "total_punches": 3
+    },
+    {
+      "employee_id": "133",
+      "date": "2025-08-20",
+      "in_time": "2025-08-20 09:11:32",
+      "out_time": "2025-08-20 09:11:32",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "151",
+      "date": "2025-08-20",
+      "in_time": "2025-08-20 09:13:11",
+      "out_time": "2025-08-20 18:08:41",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "131",
+      "date": "2025-08-20",
+      "in_time": "2025-08-20 09:22:33",
+      "out_time": "2025-08-20 19:53:06",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "129",
+      "date": "2025-08-20",
+      "in_time": "2025-08-20 14:43:07",
+      "out_time": "2025-08-20 14:43:07",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "155",
+      "date": "2025-08-20",
+      "in_time": "2025-08-20 14:52:43",
+      "out_time": "2025-08-20 22:44:41",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "114",
+      "date": "2025-08-20",
+      "in_time": "2025-08-20 15:05:15",
+      "out_time": "2025-08-20 22:45:17",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "152",
+      "date": "2025-08-20",
+      "in_time": "2025-08-20 15:09:49",
+      "out_time": "2025-08-20 22:50:02",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "149",
+      "date": "2025-08-20",
+      "in_time": "2025-08-20 15:22:34",
+      "out_time": "2025-08-20 22:46:23",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "162",
+      "date": "2025-08-20",
+      "in_time": "2025-08-20 18:10:28",
+      "out_time": "2025-08-20 18:10:28",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "130",
+      "date": "2025-08-20",
+      "in_time": "2025-08-20 22:28:12",
+      "out_time": "2025-08-20 22:28:12",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "156",
+      "date": "2025-08-20",
+      "in_time": "2025-08-20 22:28:22",
+      "out_time": "2025-08-20 22:28:22",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "148",
+      "date": "2025-08-20",
+      "in_time": "2025-08-20 22:37:37",
+      "out_time": "2025-08-20 22:37:37",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "127",
+      "date": "2025-08-20",
+      "in_time": "2025-08-20 22:42:43",
+      "out_time": "2025-08-20 22:42:43",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "116",
+      "date": "2025-08-20",
+      "in_time": "2025-08-20 23:26:38",
+      "out_time": "2025-08-20 23:26:38",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "4",
+      "date": "2025-08-21",
+      "in_time": "2025-08-21 06:55:03",
+      "out_time": "2025-08-21 06:55:03",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "157",
+      "date": "2025-08-21",
+      "in_time": "2025-08-21 06:59:53",
+      "out_time": "2025-08-21 15:33:24",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "106",
+      "date": "2025-08-21",
+      "in_time": "2025-08-21 07:00:44",
+      "out_time": "2025-08-21 15:41:14",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "126",
+      "date": "2025-08-21",
+      "in_time": "2025-08-21 07:00:48",
+      "out_time": "2025-08-21 15:41:19",
+      "total_punches": 2
+    },
+    {
+      "employee_id": "124",
+      "date": "2025-08-21",
+      "in_time": "2025-08-21 08:44:06",
+      "out_time": "2025-08-21 08:44:06",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "143",
+      "date": "2025-08-21",
+      "in_time": "2025-08-21 08:55:01",
+      "out_time": "2025-08-21 08:55:01",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "150",
+      "date": "2025-08-21",
+      "in_time": "2025-08-21 08:56:19",
+      "out_time": "2025-08-21 08:56:19",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "159",
+      "date": "2025-08-21",
+      "in_time": "2025-08-21 08:56:45",
+      "out_time": "2025-08-21 08:56:45",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "113",
+      "date": "2025-08-21",
+      "in_time": "2025-08-21 08:58:26",
+      "out_time": "2025-08-21 08:58:26",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "138",
+      "date": "2025-08-21",
+      "in_time": "2025-08-21 08:58:31",
+      "out_time": "2025-08-21 08:58:31",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "118",
+      "date": "2025-08-21",
+      "in_time": "2025-08-21 08:59:31",
+      "out_time": "2025-08-21 08:59:31",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "161",
+      "date": "2025-08-21",
+      "in_time": "2025-08-21 08:59:53",
+      "out_time": "2025-08-21 08:59:53",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "109",
+      "date": "2025-08-21",
+      "in_time": "2025-08-21 09:00:50",
+      "out_time": "2025-08-21 09:00:50",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "162",
+      "date": "2025-08-21",
+      "in_time": "2025-08-21 09:01:37",
+      "out_time": "2025-08-21 09:01:37",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "140",
+      "date": "2025-08-21",
+      "in_time": "2025-08-21 09:07:09",
+      "out_time": "2025-08-21 09:07:09",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "160",
+      "date": "2025-08-21",
+      "in_time": "2025-08-21 09:07:15",
+      "out_time": "2025-08-21 09:07:15",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "137",
+      "date": "2025-08-21",
+      "in_time": "2025-08-21 09:07:53",
+      "out_time": "2025-08-21 09:07:53",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "131",
+      "date": "2025-08-21",
+      "in_time": "2025-08-21 09:07:59",
+      "out_time": "2025-08-21 09:07:59",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "133",
+      "date": "2025-08-21",
+      "in_time": "2025-08-21 09:08:17",
+      "out_time": "2025-08-21 09:08:17",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "158",
+      "date": "2025-08-21",
+      "in_time": "2025-08-21 09:11:07",
+      "out_time": "2025-08-21 09:11:07",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "151",
+      "date": "2025-08-21",
+      "in_time": "2025-08-21 09:14:24",
+      "out_time": "2025-08-21 09:14:24",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "152",
+      "date": "2025-08-21",
+      "in_time": "2025-08-21 14:52:58",
+      "out_time": "2025-08-21 14:52:58",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "155",
+      "date": "2025-08-21",
+      "in_time": "2025-08-21 14:53:08",
+      "out_time": "2025-08-21 14:53:08",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "114",
+      "date": "2025-08-21",
+      "in_time": "2025-08-21 15:02:20",
+      "out_time": "2025-08-21 15:02:20",
+      "total_punches": 1
+    },
+    {
+      "employee_id": "149",
+      "date": "2025-08-21",
+      "in_time": "2025-08-21 15:06:48",
+      "out_time": "2025-08-21 15:06:48",
+      "total_punches": 1
+    }
+  ]
+}
